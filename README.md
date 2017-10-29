@@ -1,1 +1,2 @@
 # herculas
+python desktop application
